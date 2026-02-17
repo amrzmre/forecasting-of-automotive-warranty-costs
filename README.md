@@ -2,7 +2,7 @@
 
 # AI-Driven Forecasting of Automotive Warranty Costs
 
-**Predicting monthly alternator warranty claim costs for Perodua using machine learning and time series analysis**
+**Predicting monthly alternator warranty claim costs using machine learning and time series analysis**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
