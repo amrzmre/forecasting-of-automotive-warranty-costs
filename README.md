@@ -5,8 +5,6 @@
 **Predicting monthly alternator warranty claim costs using machine learning and time series analysis**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production-success)](https://github.com)
 
 ---
 
