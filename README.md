@@ -475,4 +475,3 @@ We welcome contributions from the community! Here's how you can help:
 
 **Last Updated:** February 2026  
 **Version:** 1.0.0  
-**Status:** Production-ready, actively maintained
