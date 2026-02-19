@@ -29,7 +29,7 @@
 
 ## 🎯 Overview
 
-This project develops a production-ready forecasting system for monthly automotive warranty costs of P Model. Using historical warranty claims data (FY2019–FY2023), built and validated four machine learning models to predict FY2024 costs with 93% annual accuracy.
+This project develops a production-ready forecasting system for monthly automotive warranty costs of alternator P Model. Using historical warranty claims data (FY2019–FY2023), built and validated four machine learning models to predict FY2024 costs with 93% annual accuracy.
 
 **Key Features:**
 - ✅ Multi-model ensemble approach (Linear Regression, ARIMA, Random Forest, XGBoost)
